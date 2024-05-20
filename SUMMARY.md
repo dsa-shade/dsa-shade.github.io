@@ -26,6 +26,13 @@
     * [Algorithms](basic-data-structures/arrays/applications/algorithms.md)
     * [Data Storage](basic-data-structures/arrays/applications/data-storage.md)
     * [Mathematical Operations](basic-data-structures/arrays/applications/mathematical-operations.md)
+  * [Example Code Snippets](basic-data-structures/arrays/example-code-snippets/README.md)
+    * [Initializing an Array with Predefined Values](basic-data-structures/arrays/example-code-snippets/initializing-an-array-with-predefined-values.md)
+    * [Concatenating Two Arrays](basic-data-structures/arrays/example-code-snippets/concatenating-two-arrays.md)
+    * [Array Slicing](basic-data-structures/arrays/example-code-snippets/array-slicing.md)
+    * [Sorting an Array in Ascending Order](basic-data-structures/arrays/example-code-snippets/sorting-an-array-in-ascending-order.md)
+    * [Finding Maximum Element in an Array](basic-data-structures/arrays/example-code-snippets/finding-maximum-element-in-an-array.md)
+    * [Calculating Sum of Elements in an Array](basic-data-structures/arrays/example-code-snippets/calculating-sum-of-elements-in-an-array.md)
 
 ***
 
